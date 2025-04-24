@@ -13,8 +13,8 @@ Direct link: `https://raw.githubusercontent.com/deviint/onlyfans-dynamic-rules/m
 - [Self-host (Coming Soon)](https://docs.ofauth.com/guide/self-hosting/overview)
 
 
-[<img alt="Early Access" src="https://updates.ofauth.com/image_early.svg" width="350px"/>](https://buy.polar.sh/3c06aed1-4b3c-4da3-bfa1-c20cdccb7343)
-[<img alt="Real-Time Access" src="https://updates.ofauth.com/image_realtime.svg" width="350px"/>](https://buy.polar.sh/0d890489-6d19-4e49-97b5-4d54a6a11c04)
+[<img alt="Early Access" src="https://updates.ofauth.com/image_early.svg" width="350px"/>](https://buy.polar.sh/polar_cl_7OrTU1HWcgK30XX9GFxhrIe56M4ZDMLTLpQVoaDtNPc)
+[<img alt="Real-Time Access" src="https://updates.ofauth.com/image_realtime.svg" width="350px"/>](https://buy.polar.sh/polar_cl_Q6zyBs3VXSLKcxdf9MQffCYtgWCvFLw3fnVgB2VYAwz)
 
 <img src="https://updates.ofauth.com/graph.svg">
 
