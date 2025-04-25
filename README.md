@@ -10,7 +10,6 @@ Direct link: `https://raw.githubusercontent.com/deviint/onlyfans-dynamic-rules/m
 
 ## Links
 - [Documentation](https://docs.ofauth.com)
-- [Self-host (Coming Soon)](https://docs.ofauth.com/guide/self-hosting/overview)
 
 
 [<img alt="Early Access" src="https://updates.ofauth.com/image_early.png" width="355px"/>](https://buy.polar.sh/polar_cl_igW2OuMES47TFWrpj030DLQUUqVPiK7dgEI5r1C58t6)
